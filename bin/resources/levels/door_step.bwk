@@ -1,0 +1,19 @@
+; Header
+TITLE	Adventure's Doorstep
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	5 x 4
+
+; Terrain Layer
+* ! X ! *
+* . . . *
+# # @ # #
+# . S . #
+
+; Object layer
+* ! X ! *
+* . . . *
+# # @ # #
+# . S . #
+

@@ -1,0 +1,20 @@
+; Header
+TITLE   Snipers
+AUTHOR  joseph
+
+; Dimensions
+MAP     14 x 4
+
+; Terrain Layer
+. . . * . . . . * . * . . .
+. * . * . . . . . . . . . .
+S * . . . . . . . . . * . *
+. . . * * . * . . . . . . X
+
+; Object Layer
+. . . * ! . . . * w * . . .
+! * . * . . . . . . . . . w
+S * @ . . . . . @ @ . * ! *
+. . . * * / * . . . . . . .
+
+

@@ -1,0 +1,21 @@
+; Header
+TITLE	Those Purple Things Are Wings!
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	5 x 5
+
+; Terrain Layer
+. . X . .
+* # # # *
+. . & . .
+# # . # #
+# . S . #
+
+; Object layer
+. . ! . .
+* # # # *
+. . & . .
+# # . # #
+# . S . #
+

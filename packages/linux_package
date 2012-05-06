@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Creates the linux package for Bwock
+
+# Variable Names
+# --------------
+PACKAGE_FOLDER="linux/package"
+BIN_FOLDER="../bin"
+
+# Replace previous existing package folder
+# ----------------------------------------
+rm -r ${PACKAGE_FOLDER}
+mkdir ${PACKAGE_FOLDER}
+mkdir ${PACKAGE_FOLDER}/licenses
+mkdir ${ACKAGE_FOLDER}/resources
+
+# Copy the contents of the Linux folder
+# -------------------------------------
+cp linux/* ${PACKAGE_FOLDER}
+
+# Copy the licenses folder
+# ------------------------
+cp ../licenses ${PACKAGE_FOLDER} -r
+
+# Add the Bwock license
+# ---------------------
+cp ../COPYING ${PACKAGE_FOLDER}/licenses/bwock.txt
+
+# Copy the current binary
+# -----------------------
+cp ${BIN_FOLDER}/bwock_bin ${PACKAGE_FOLDER}
+
+# Copy the executable's dependencies
+# ----------------------------------
+cp ${BIN_FOLDER}/settings.txt ${PACKAGE_FOLDER}
+cp ../dependencies/Gosu/lib/*.so ${PACKAGE_FOLDER}
+cp ../dependencies/IrrKlang/lib/*.so ${PACKAGE_FOLDER}
+
+# Copy the resources 
+# ------------------
+cp ${BIN_FOLDER}/resources ${PACKAGE_FOLDER} -r

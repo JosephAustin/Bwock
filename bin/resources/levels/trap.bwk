@@ -1,0 +1,23 @@
+; Header
+TITLE   Trap!
+AUTHOR  joseph
+
+; Dimensions
+MAP     7 x 6
+
+; Terrain Layer
+w * * * * * *
+. v . ! . v .
+. > @ v - @ |
+. S o - - . .
+. . ^ . ^ . .
+X . . . . . w
+
+; Object Layer
+w * * * * * *
+. v . ! . v .
+. > @ v - @ |
+. S o - - . X
+. . ^ . ^ ! .
+X . . . . . w
+

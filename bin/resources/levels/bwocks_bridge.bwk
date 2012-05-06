@@ -1,0 +1,29 @@
+; Header
+TITLE	Bwocks Busily Builds Bridges
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	9 x 8
+
+; Terrain Layer
+* * * * # # X # # 
+* * * * * # . # *  
+# # # # # # . # #  
+# ~ ~ ~ ~ ~ . ! #  
+# . . # # # # # #  
+# . . @ . @ . . #  
+# . @ . @ . @ . #  
+# S . . . . . . #  
+
+
+; Object layer
+* * * * # # X # # 
+* * * * * # . # *  
+# # # # # # . # #  
+# ~ ~ ~ ~ ~ . ! #  
+# . . # # # # # #  
+# . . @ . @ . . #  
+# . @ . @ . @ . #  
+# S . . . . . . #  
+
+

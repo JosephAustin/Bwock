@@ -1,0 +1,34 @@
+; Header
+TITLE   Punishment!
+AUTHOR	Anonymous Contributor
+
+; If you're the author, please email me to change
+; the attribution!
+
+; Dimensions
+MAP     12 x 10
+
+; Terrain Layer
+* * * * . * * * * * * *
+. * . # . . . . . . . .
+. * . # . . . . . . . X
+. . . . . . * . . . . *
+. * . * . . * . . . . .
+. . . # . . . . . . . .
+. . . * . . * * * . # #
+. . . * * . * . . . . .
+S * . * . . * . . . . .
+. * . . . . . . . . . .
+
+; Object Layer
+. . . . / . . . . . . .
+. . w . . . . . . . & .
+! . . . . w . o . o . .
+. . . @ o . . o . . . .
+. . . . . ! . . . . . .
+. . . . . . o ! . . . w
+| o . . . | . . . . . .
+. o . . . . . & . . . !
+. . . . ! o . . ! . . .
+& . . . . . . . . . . w
+

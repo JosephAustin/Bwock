@@ -1,0 +1,25 @@
+; Header
+TITLE	The Ways of Water
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	5 x 7
+
+; Terrain Layer
+* . X . *
+* . ~ . *
+* ! o ! *
+* * o * *
+* ~ ~ ~ *
+# # @ # #
+# . S . #
+
+; Object layer
+* . X . *
+* . ~ . *
+* ! o ! *
+* * o * *
+* ~ ~ ~ *
+# # @ # #
+# . S . #
+

@@ -1,0 +1,23 @@
+; Header
+TITLE	Itchy Knees
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	5 x 6
+
+; Terrain Layer
+. w . * *
+w . % . w
+. . @ . .
+. % S % %
+# . @ . !
+X . . % *
+
+; Object layer
+. w . * *
+w . % . w
+. . @ . .
+. % S % %
+# . @ . !
+X . . % *
+

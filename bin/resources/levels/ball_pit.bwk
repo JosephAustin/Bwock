@@ -1,0 +1,32 @@
+; Header
+TITLE	The Ball Pit
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	13 x 11
+
+; Terrain Layer
+. o o . o o X . . o . . .
+. o . . o . o . o o . . .
+o o o o o o o o o o o o o
+. o o . o o o o o o . . .
+o o o o o o o o o o o o o
+. o o o o o S o . o o o .
+. . o o o o o o o o o o o
+o o . . . o o o o o . o o
+. o o o o o o o . o . o o
+. ! . . . o o o . o . ! o
+. o o o o . . o . o . o o
+
+; Object layer
+. o o . o o X . . o . . .
+. o . . o . o . o o . . .
+o o o o o o o o o o o o o
+. o o . o o o o o o . . .
+o o o o o o o o o o o o o
+. o o o o o S o . o o o .
+. . o o o o o o o o o o o
+o o . . . o o o o o . o o
+. o o o o o o o . o . o o
+. ! . . . o o o . o . ! o
+. o o o o . . o . o . o o

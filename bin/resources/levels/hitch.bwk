@@ -1,0 +1,29 @@
+; Header
+TITLE	Hitch a Ride
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	10 x 8
+
+; Terrain Layer
+. # # # # # # # # #
+X # # # # # # # # #
+. # # # # # # # # #
+. # # # # # # # # #
+. ! . w . w . . . .
+. . . . . . ! . | <
+. . . . @ o . . . .
+. . . . S . . . . .
+
+
+; Object layer
+. # # # # # # # # #
+X # # # # # # # # #
+. # # # # # # # # #
+. # # # # # # # # #
+. ! . w . w . . . .
+. . . . . . ! . | <
+. . . . @ o . . . .
+. . . . S . . . . .
+
+

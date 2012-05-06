@@ -1,0 +1,61 @@
+  This is the official credit page which upholds the recognition of 
+intellectual property for those who contributed to this game. Please be 
+respectful of the licensing for each individual file, and take care not
+to deviate from the parameters of said licenses. If this project deviates
+unknowingly from a license, please send an e-mail IMMEDIATELY so that it
+can be addressed ( joseph.the.austin@gmail.com )
+
+
+
+I. MUSIC
+
+---------------------------------------------------------------------------
+
+TITLE:  Bwock's Sunny Start
+FILE:   BwocksSunnyStart.ogg
+AUTHOR: AxeHammer Games
+LICENSE: Creative Commons-Attribution-No Derivative Works 3.0 United States
+
+See the license at http://creativecommons.org/licenses/by-nd/3.0/us/
+
+---------------------------------------------------------------------------
+
+
+II. SOUND
+
+--------------------------------------------------------------------------
+
+TITLE:  Key Pickup
+FILE:   getkey.ogg
+AUTHOR: wildweasel ( http://www.freesound.org/usersViewSingle.php?id=54676 )
+LICENSE: Creative Commons Sampling Plus 1.0.
+
+See the license at http://creativecommons.org/licenses/sampling+/1.0/
+
+--------------------------------------------------------------------------
+
+TITLE:  Jaw Harp 6
+FILE:   boing.ogg
+AUTHOR: stomachache ( http://www.freesound.org/usersViewSingle.php?id=177850 )
+LICENSE: Creative Commons Sampling Plus 1.0.
+
+See the license at http://creativecommons.org/licenses/sampling+/1.0/
+
+--------------------------------------------------------------------------
+
+TITLE:  splash-01
+FILE:   splash.ogg
+AUTHOR: Media College ( http://www.mediacollege.com/downloads/sound-effects/water/ )
+LICENSE: Public Domain
+
+--------------------------------------------------------------------------
+
+III. ART
+
+TITLE:   Seamless Water Texture
+FILE:	 water.png
+Author:  FREE RENDER TEXTURES ( http://www.rendertextures.com/ )
+LICENSE: Unknown, attributing as courtesy
+
+
+

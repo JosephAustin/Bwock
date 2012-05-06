@@ -1,0 +1,41 @@
+; Header
+TITLE	Minions!
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	14 x 10
+
+; Terrain Layer
+
+; e = eyenapple
+; ( ) u n = scorcher ( east, west, north, south
+; A = shark
+; g = guard <->
+; G = guard ^ v
+; 1 2 3 4 5 6 7 8 9 = limited push block
+
+e X e * w * . * w * . ! S .
+. . . . . . . . . . . @ @ .
+. . @ . . . @ . . . . . . .
+~ ~ ~ ~ ~ . ~ . ~ ~ ~ ~ ~ ~
+. . @ . ~ e ~ e ~ . . . . . 
+( ! . . ~ * w * ~ . . . . .
+. . . . ~ ~ ~ ~ ~ . @ . @ .
+. . . . . . . . . . . @ . .
+. . . . . . g . . . @ . @ .
+* . . . ~ ~ ~ ~ ~ . . . . .
+* * * * ~ ~ A ~ ~ * * * * *
+
+; Object layer
+i X i * w * . * w * . ! S .
+. . . . . . . . . . . @ @ .
+. . @ . . . @ . . . . . . .
+~ ~ ~ ~ ~ . ~ . ~ ~ ~ ~ ~ ~
+. . @ . ~ i ~ i ~ . . . . . 
+. ! . . ~ * w * ~ . . . . .
+. . . . ~ ~ ~ ~ ~ . @ . @ .
+. . . . . . . . . . . @ . .
+. . . . . . g . . . @ . @ .
+* . . . # # # # # . . . . .
+
+

@@ -1,0 +1,27 @@
+; Header
+TITLE	Meet The Wizrats
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	7 x 8
+
+; Terrain Layer
+w . . X . . w
+# . . / . . #
+! . . . . . !
+. . . . . . .
+w . . o . . w
+# @ # o # @ #
+# . . . . . #
+# . . S . . #
+
+; Object layer
+w . . X . . w
+# . . / . . #
+! . . . . . !
+. . . . . . .
+w . . o . . w
+# @ # o # @ #
+# . . . . . #
+# . . S . . #
+

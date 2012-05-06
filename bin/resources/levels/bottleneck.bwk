@@ -1,0 +1,26 @@
+; Header
+TITLE	Bottlenecking
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	6 x 7
+
+; Terrain Layer
+* * & . . .
+. o . . . .
+. o # . . p
+. o # ! . .
+. S # . . p
+* # * . . .
+X . . p . .
+
+
+; Object layer
+* * & . . .
+. o . . . .
+. o # . . p
+. o # ! . .
+. S # . . p
+* # * . . .
+X . . p . .
+

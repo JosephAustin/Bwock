@@ -1,0 +1,26 @@
+; Header
+TITLE   Sky High
+AUTHOR  joseph
+
+; Dimensions
+MAP     7 x 7
+
+
+; Terrain Layer
+S . . # w # !
+. ! . * . o .
+. . & * & . .
+* * * * * * *
+. . & * . . .
+. . . * . . X
+! . . * . . .
+
+; Object layer
+S . . # w . !
+. ! . * . o .
+. . & * & . .
+* * * * * * *
+. . & * . . .
+. . . * . . X
+! . . * . . .
+

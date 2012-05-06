@@ -1,0 +1,29 @@
+; Header
+TITLE	Meet BroBro
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	5 x 9
+
+; Terrain Layer
+. . w . .
+. . . . .
+. . . . .
+. . . . X
+. . ! . . 
+. . * . . 
+. b . S .
+* . * . * 
+. . . . .
+
+
+. . w . .
+. . . . .
+. . . . .
+. . . . X
+. . ! . . 
+. . * . . 
+. b . S .
+* . * . * 
+. . . . .
+

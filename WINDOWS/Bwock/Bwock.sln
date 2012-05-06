@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bwock", "Bwock.vcproj", "{C09FC33A-7C7B-4C24-ADB0-EC3904ED803F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09FC33A-7C7B-4C24-ADB0-EC3904ED803F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C09FC33A-7C7B-4C24-ADB0-EC3904ED803F}.Debug|Win32.Build.0 = Debug|Win32
+		{C09FC33A-7C7B-4C24-ADB0-EC3904ED803F}.Release|Win32.ActiveCfg = Release|Win32
+		{C09FC33A-7C7B-4C24-ADB0-EC3904ED803F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

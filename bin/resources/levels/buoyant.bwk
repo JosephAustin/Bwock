@@ -1,0 +1,30 @@
+; Header
+TITLE	Buoyant
+AUTHOR	joseph
+
+; Begin Map definition
+MAP	5 x 9
+
+; Terrain Layer
+# . X . #
+# . . . #
+w . ! . w
+. o . o .
+~ ~ ~ ~ ~
+~ . . . ~ 
+! o @ o ! 
+. o . o . 
+. . S . .
+
+; Object layer
+# . X . #
+# . . . #
+w . ! . w
+. o . o .
+~ ~ ~ ~ ~
+~ . . . ~ 
+! o @ o ! 
+. o . o . 
+. . S . .
+
+

@@ -1,0 +1,25 @@
+#!/bin/bash
+# Game
+
+GAME_BIN="bwock_bin"
+PWD_DIR=`pwd`
+GAME_DIR=`echo $0 | sed 's,^\(.*\)/\(.*\)$,\1,g'`
+GAME_PATH="${GAME_DIR}/${GAME_BIN}"
+
+# Set LD_LIBRARY_PATH
+LIBPATH="${GAME_DIR}"
+if [ "${LD_LIBRARY_PATH}" ]; then
+    LD_LIBRARY_PATH="${LIBPATH}:${LD_LIBRARY_PATH}"
+else
+    LD_LIBRARY_PATH="${LIBPATH}"
+fi
+export LD_LIBRARY_PATH
+
+# Run the game
+if [ -e "${GAME_PATH}" ]; then
+    cd ${GAME_DIR}
+    ./${GAME_BIN} $@
+    cd ${PWD_DIR}
+else
+    echo "ERROR: '${GAME_PATH}' not found!"
+fi
